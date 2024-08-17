@@ -19,5 +19,6 @@ Below are the steps to create an API:
 ![Create Data in SQL Screenshot 4](https://github.com/user-attachments/assets/cc424b3f-cfc2-4393-8a46-f1e6df319846)
 
 <p align="center">
-  **Read API.**
+  <strong>Read API.</strong>
 </p>
+
