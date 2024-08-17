@@ -50,4 +50,4 @@ Below are the steps to create an API:
 
 ![delectAPI1](https://github.com/user-attachments/assets/2ac69aaf-d4fc-4403-95d6-f6151cabfe12)
 
-**Step 2:** Delete API (Screenshot 2)
+
