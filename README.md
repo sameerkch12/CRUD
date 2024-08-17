@@ -21,4 +21,6 @@ Below are the steps to create an API:
 <p align="center">
   <strong>Read API.</strong>
 </p>
+**Step 1:** Read API (Screenshot 1)
+
 
